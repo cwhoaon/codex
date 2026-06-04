@@ -20,3 +20,7 @@ Write PyTorch code with:
 - full forward pass trace
 - comments explaining each step
 If any assumption is unclear, ask before coding.
+
+@~/.codex/md_files/andrej-karpathy.md
+@~/.codex/md_files/code-organization.md
+

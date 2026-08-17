@@ -23,7 +23,7 @@ Write PyTorch code with:
 If any assumption is unclear, ask before coding.
 
 Do not write mathematical formulation in latex. Terminal chat doesn't provide latex rendering.
-Insteadd, use unicodes.
+Instead, use unicodes.
 
 @~/.codex/md_files/andrej-karpathy.md
 @~/.codex/md_files/code-organization.md

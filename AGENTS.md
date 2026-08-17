@@ -19,6 +19,7 @@ Write PyTorch code with:
 - no hidden broadcasting
 - full forward pass trace
 - comments explaining each step
+- code should be easy for humans to understand
 If any assumption is unclear, ask before coding.
 
 @~/.codex/md_files/andrej-karpathy.md

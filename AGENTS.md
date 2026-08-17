@@ -22,6 +22,9 @@ Write PyTorch code with:
 - code should be easy for humans to understand
 If any assumption is unclear, ask before coding.
 
+Do not write mathematical formulation in latex. Terminal chat doesn't provide latex rendering.
+Insteadd, use unicodes.
+
 @~/.codex/md_files/andrej-karpathy.md
 @~/.codex/md_files/code-organization.md
 
